@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SE4458_Midterm_20070006074.props" />
+</Project>

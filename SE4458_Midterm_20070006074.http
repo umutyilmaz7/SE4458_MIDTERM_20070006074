@@ -1,0 +1,6 @@
+@SE4458_Midterm_20070006074_HostAddress = http://localhost:5263
+
+GET {{SE4458_Midterm_20070006074_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
